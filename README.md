@@ -1,0 +1,2 @@
+# bigseenuzbot
+Telegrandagi ishonchli nakrutkabot
